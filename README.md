@@ -1,5 +1,8 @@
 ->Moveinsync – Real-Time Vehicle Tracking & Geofence Automation
 
+<img width="1440" height="900" alt="Screenshot 2026-02-22 at 10 41 26 AM" src="https://github.com/user-attachments/assets/b57d30da-1237-44d1-bbdc-bdbf6279147c" />
+
+
 Moveinsync is a real-time vehicle tracking and geofence automation system designed for enterprise transport operations. It provides live vehicle monitoring, automatic trip updates, and geofence-based event handling to ensure operational efficiency and transparency.
 
 ->Project Overview & its working;
