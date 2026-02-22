@@ -1,6 +1,23 @@
 ->Moveinsync – Real-Time Vehicle Tracking & Geofence Automation
 
+->Here in this images one green circle is there which indicating the geofence area which has specific diameter is assinged so that if any vehicles comes under the region then tour completed message is trigger and other in blue color is showing that number of vehicle on the specific area/route each are targetting to reach distination.
+
 <img width="1440" height="900" alt="Screenshot 2026-02-22 at 10 41 26 AM" src="https://github.com/user-attachments/assets/b57d30da-1237-44d1-bbdc-bdbf6279147c" />
+
+->Command Center is showing that how many vechicles are ongoing, delayed, pickedup employee.
+
+<img width="1440" height="900" alt="Screenshot 2026-02-22 at 10 42 11 AM" src="https://github.com/user-attachments/assets/1b6370a2-4272-473d-83a4-2060cf6c5556" />
+
+->Fleet Simulator section is showing that how many vechicles is running on the real time means active vechies each vehicles is showing there trip_id and vehicles_id and also showing that how reached the office.
+
+<img width="1440" height="900" alt="Screenshot 2026-02-22 at 10 42 03 AM" src="https://github.com/user-attachments/assets/760c2739-8711-4c59-86d8-a15b5ea8efaf" />
+
+<img width="1440" height="900" alt="Screenshot 2026-02-22 at 10 42 46 AM" src="https://github.com/user-attachments/assets/20bcf922-ee49-42f5-901c-eae7f5f9c279" />
+
+->this final image is showing that the picked employee reached the distination and in last in live event it is showing that pickup arrived.
+
+<img width="1440" height="900" alt="Screenshot 2026-02-22 at 10 42 46 AM" src="https://github.com/user-attachments/assets/2ccb84ee-120d-49e3-8639-1d42babc312f" />
+
 
 
 Moveinsync is a real-time vehicle tracking and geofence automation system designed for enterprise transport operations. It provides live vehicle monitoring, automatic trip updates, and geofence-based event handling to ensure operational efficiency and transparency.
